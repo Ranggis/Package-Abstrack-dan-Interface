@@ -7,7 +7,6 @@ package Laptop;
  *
  * @author LENOVO
  */
-// LaptopUser.java
 
 public class LaptopUser {
     private Laptop laptop;
