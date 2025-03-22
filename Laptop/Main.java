@@ -9,7 +9,6 @@ import java.util.Scanner;
  *
  * @author LENOVO
  */
-// Main.java
 
 public class Main {
     public static void main(String[] args) {
