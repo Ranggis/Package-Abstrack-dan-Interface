@@ -8,6 +8,7 @@ package Laptop;
  *
  * @author LENOVO
  */
+
 public class Toshiba implements Laptop{
     private int volume;
     private boolean is_power_on;
