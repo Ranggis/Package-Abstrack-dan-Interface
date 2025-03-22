@@ -8,6 +8,7 @@ package Laptop;
  *
  * @author LENOVO
  */
+
 public class Mackbook implements Laptop{
     private int volume;
     private boolean is_power_on;
